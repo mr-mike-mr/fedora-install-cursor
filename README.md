@@ -1,4 +1,4 @@
-# Project Name
+# Fedora Install Cursor - The AI Code Editor 
 
 ![image](https://i.imgur.com/P3eftiN.png)
 
